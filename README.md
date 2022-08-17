@@ -1,1 +1,1 @@
-# compu_intensiva
+# Clase Computación Intensiva
